@@ -1,4 +1,4 @@
-# Xeref Project
+# Xeref.ai
 
 Xeref is a modular AI platform integrating document crawling, embeddings, multi-agent orchestration, and a web UI. It leverages FastAPI, Supabase, OpenAI, and Docker for scalable deployment.
 
